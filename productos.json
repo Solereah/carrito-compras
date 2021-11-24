@@ -1,0 +1,82 @@
+[
+
+            {   
+                "id": 1,
+                "img" : "img/img/imagen1.jpg",
+                "title": "Mocha Latte",
+                "price": 350
+              
+            },
+        
+            {   "id": 2,
+                "img" : "img/img/imagen2.jpg",
+                "title": "Expresso",
+                "price": 250
+               
+                
+               
+             },
+                
+            {   "id": 3,
+                "img" : "img/img/imagen3.jpg",
+                "title": "Ristretto",
+                "price": 300
+               
+              
+               
+            },
+        
+            {   "id": 4,
+                "img" : "img/img/imagen4.jpg",
+                "title": "Latte",
+                "price": 450
+               
+                
+               
+            },
+            {   "id": 5,
+                "img" : "img/img/imagen5.jpg",
+                "title": "Iced Coffee",
+                "price": 450
+              
+               
+               
+            },
+            {   "id": 6, 
+                "img" : "img/img/imagen6.jpg",
+                "title": "Coffee of the day", 
+                "price": 250
+               
+               
+            }
+        
+        ]
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
